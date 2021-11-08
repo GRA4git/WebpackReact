@@ -1,0 +1,13 @@
+#root{
+    width: 1170px;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color: red;
+}
+.logo{width: 200px;
+    border-radius: 10px;
+}
